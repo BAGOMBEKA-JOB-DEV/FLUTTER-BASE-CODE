@@ -130,5 +130,3 @@ We welcome contributions to the **Food Booking App**! To contribute:
 Thank you for using **Food Booking App**! We hope this app enhances your food ordering experience, bringing tasty meals to your door with ease. Stay tuned for new updates and features!
 
 ```
-
-This `README.md` provides a complete overview of your **Food Booking App**, describing its major features such as restaurant listings, menu customization, order tracking, payment gateways, and user profiles. It also includes installation and usage instructions to guide users in getting started with the app.
