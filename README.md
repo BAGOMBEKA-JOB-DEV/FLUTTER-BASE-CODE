@@ -16,8 +16,8 @@ Whether you’re craving pizza, sushi, or a home-cooked meal, this app offers ev
 - **User Profile**: Create and manage a personal profile, including delivery addresses and payment methods.
 - **Search Functionality**: Easily search for dishes, restaurants, or specific ingredients.
 - **Ratings and Reviews**: Rate restaurants and dishes after enjoying your meal.
-- **Push Notifications**: Receive updates about your order status, offers, and more.
-- **Favorites**: Mark your favorite restaurants and dishes for quick access.
+- **Push Notifications**: Receive updates about your order status, offers, and more
+- **Favorites**: Mark your favorite restaurants and dishes for quick access
 
 ## Features and Functionalities
 
