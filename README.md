@@ -125,8 +125,6 @@ We welcome contributions to the **Food Booking App**! To contribute:
 3. Implement your changes and write tests if necessary.
 4. Submit a pull request for review.
 
----
 
-Thank you for using **Food Booking App**! We hope this app enhances your food ordering experience, bringing tasty meals to your door with ease. Stay tuned for new updates and features!
 
 ```
