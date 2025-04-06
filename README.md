@@ -1,7 +1,6 @@
 
 # Food Booking App
 
-## Overview
 
 The **Food Booking App** is a mobile application developed using **Flutter** that allows users to easily browse, order, and enjoy delicious meals from their favorite restaurants. With a clean and user-friendly interface, the app streamlines the food ordering process, providing users with an engaging experience for browsing menus, customizing orders, managing deliveries, and making secure payments.
 
