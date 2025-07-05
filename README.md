@@ -111,10 +111,6 @@ To use the **Food Booking App**, ensure you have the following:
 5. **Track Your Order**: Once your order is confirmed, track it in real-time through the order tracking page.
 6. **Leave Reviews**: After enjoying your meal, rate the restaurant and dishes.
 
-## License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
 ## Contributing
 
 We welcome contributions to the **Food Booking App**! To contribute:
