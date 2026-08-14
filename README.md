@@ -40,4 +40,4 @@ Hot reload animation
 Extensible and open model
 Flutter works with any development tool (or none at all), and also includes editor plug-ins for both Visual Studio Code and IntelliJ / Android Studio. Flutter provides tens of thousands of packages to speed your development, regardless of your target platform. And accessing other native code is easy, with support for both FFI (on Android, on iOS, on macOS, and on Windows) as well as platform-specific APIs.
 
-Flutter is a fully open-source project, and we welcome contributions. Information on how to get started can be found in our contributor guide.
+Flutter is a fully open-source project, and we welcome contributions. Information on how to get started can be found in our contributor guide👀.
